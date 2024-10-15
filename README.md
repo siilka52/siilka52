@@ -6,6 +6,6 @@
 - ⚡ Fun fact: idk 
 - guys could you help me how can i write capstone project proposal?
 <!---
-siilka52/siilka52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+siilka123/siilka123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
